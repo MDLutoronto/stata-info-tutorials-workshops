@@ -3,6 +3,9 @@ title: "Stata: Information, Tutorials, and Workshops"
 layout: "home"
 description: "Stata is a statistical software for data manipulation, data visualization and data analysis."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Stata: Information, Tutorials, and Workshops
