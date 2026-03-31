@@ -1,8 +1,11 @@
 ---
 title: "Stata: Information, Tutorials, and Workshops"
 layout: "home"
-description: ""
+description: "Stata is a statistical software for data manipulation, data visualization and data analysis."
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Stata: Information, Tutorials, and Workshops
@@ -21,17 +24,20 @@ Learning resources
 
 ### Workshops
 
-#### [Introduction to Stata](https://play.library.utoronto.ca/watch/3149de742246e30311c706ce1c0e4978)
+### [Introduction to Stata](https://play.library.utoronto.ca/watch/3149de742246e30311c706ce1c0e4978)
 
-[https://play.library.utoronto.ca/embed/3149de742246e30311c706ce1c0e4978](https://play.library.utoronto.ca/embed/3149de742246e30311c706ce1c0e4978)
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://play.library.utoronto.ca/embed/3149de742246e30311c706ce1c0e4978" width="560">iframe not supported</iframe>
+
 
 ### Tutorials
 
-* [Introduction to Stata](https://mdl.library.utoronto.ca/technology/tutorials/introduction-stata)(covered in the workshop above)
+* [Introduction to Stata](https://mdl.library.utoronto.ca/technology/tutorials/introduction-stata) (covered in the workshop above)
 * [Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 * [Summary Statistics in Stata](https://mdl.library.utoronto.ca/technology/tutorials/summary-statistics-stata)
 * [Downloading SDA Data from CHASS into Stata](https://mdl.library.utoronto.ca/technology/tutorials/downloading-sda-data-chass-stata)
 * [Introduction to Stata (Princeton)](https://mdl.library.utoronto.ca/technology/tutorials/introduction-stata-princeton)
 * [Stata \- UCLA](https://stats.oarc.ucla.edu/stata/)
 
-Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Stata](/tools/stata)**Date Created:** 2022\-05\-06**Updated:** 2025\-01\-28
+Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Stata](/tools/stata)
+
+**Date Created:** 2022\-05\-06 **Updated:** 2025\-01\-28
