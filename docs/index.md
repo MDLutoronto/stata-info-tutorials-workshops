@@ -38,6 +38,6 @@ Learning resources
 * [Introduction to Stata (Princeton)](https://mdl.library.utoronto.ca/technology/tutorials/introduction-stata-princeton)
 * [Stata \- UCLA](https://stats.oarc.ucla.edu/stata/)
 
-Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Stata](/tools/stata)
+**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
 
 **Date Created:** 2022\-05\-06 **Updated:** 2025\-01\-28
