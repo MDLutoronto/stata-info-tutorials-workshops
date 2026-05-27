@@ -4,8 +4,8 @@ layout: "home"
 description: "Stata is a statistical software for data manipulation, data visualization and data analysis."
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
-    - name: Nadia Muhe
-      link: https://library.utoronto.ca/staff/nadia-muhe
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 created_date: 2022-05-06
 ---
 
@@ -16,7 +16,7 @@ created_date: 2022-05-06
 Getting started
 ---------------
 
-* A software license for Stata can be purchased by University of Toronto faculty, staff, and students at a discounted rate. Faculty and staff go through the [Stata Prof\+ Plan](https://www.stata.com/order/new/edu/profplus/dl/). Please select your campus from the list of Ontario universities. Students go through the [Student single\-user purchase](https://www.stata.com/order/new/edu/profplus/student-pricing/).
+* A software license for Stata can be purchased by University of Toronto faculty, staff, and students at a discounted rate. Faculty and staff go through the [Stata Prof+ Plan](https://www.stata.com/order/new/edu/profplus/dl/). Please select your campus from the list of Ontario universities. Students go through the [Student single-user purchase](https://www.stata.com/order/new/edu/profplus/student-pricing/).
 * All computers in the Map and Data Library (on the fifth floor of Robarts Library), and the computer labs on the fourth and fifth floor of Robarts Library have Stata installed.
 * See below for resources to get an introduction to Stata.
 
