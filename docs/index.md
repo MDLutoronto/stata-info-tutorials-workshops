@@ -32,11 +32,11 @@ Learning resources
 
 ### Tutorials
 
-* [Introduction to Stata](https://mdl.library.utoronto.ca/technology/tutorials/introduction-stata) (covered in the workshop above)
-* [Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
-* [Summary Statistics in Stata](https://mdl.library.utoronto.ca/technology/tutorials/summary-statistics-stata)
-* [Downloading SDA Data from CHASS into Stata](https://mdl.library.utoronto.ca/technology/tutorials/downloading-sda-data-chass-stata)
-* [Introduction to Stata (Princeton)](https://mdl.library.utoronto.ca/technology/tutorials/introduction-stata-princeton)
-* [Stata - UCLA](https://stats.oarc.ucla.edu/stata/)
+* [Introduction to Stata](https://mdlutoronto.github.io/stata-intro/) (covered in the workshop above)
+* [Cleaning Data in Stata](https://mdlutoronto.github.io/stata-cleaning-data/)
+* [Downloading SDA Data from CHASS into Stata](https://mdlutoronto.github.io/chass-downloading-sda-data-to-stata/)
+* [Stata \- UCLA](https://stats.oarc.ucla.edu/stata/)
 
-**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
+**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
+
+
