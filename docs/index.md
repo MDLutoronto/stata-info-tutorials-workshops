@@ -6,6 +6,7 @@ permalink: "/"  #! Remove this if not the homepage
 maintainer:
  - name: Nadia Muhe
    link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2022-05-06
 ---
 
 # Stata: Information, Tutorials, and Workshops
@@ -15,7 +16,7 @@ maintainer:
 Getting started
 ---------------
 
-* A software license for Stata can be purchased by University of Toronto faculty, staff, and students at a discounted rate. Faculty and staff go through the [Stata Prof\+ Plan](https://www.stata.com/order/new/edu/profplus/dl/). Please select your campus from the list of Ontario universities. Students go through the [Student single\-user purchase](https://www.stata.com/order/new/edu/profplus/student-pricing/).
+* A software license for Stata can be purchased by University of Toronto faculty, staff, and students at a discounted rate. Faculty and staff go through the [Stata Prof+ Plan](https://www.stata.com/order/new/edu/profplus/dl/). Please select your campus from the list of Ontario universities. Students go through the [Student single-user purchase](https://www.stata.com/order/new/edu/profplus/student-pricing/).
 * All computers in the Map and Data Library (on the fifth floor of Robarts Library), and the computer labs on the fourth and fifth floor of Robarts Library have Stata installed.
 * See below for resources to get an introduction to Stata.
 
@@ -36,8 +37,6 @@ Learning resources
 * [Summary Statistics in Stata](https://mdl.library.utoronto.ca/technology/tutorials/summary-statistics-stata)
 * [Downloading SDA Data from CHASS into Stata](https://mdl.library.utoronto.ca/technology/tutorials/downloading-sda-data-chass-stata)
 * [Introduction to Stata (Princeton)](https://mdl.library.utoronto.ca/technology/tutorials/introduction-stata-princeton)
-* [Stata \- UCLA](https://stats.oarc.ucla.edu/stata/)
+* [Stata - UCLA](https://stats.oarc.ucla.edu/stata/)
 
-**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
-
-**Date Created:** 2022\-05\-06 **Updated:** 2025\-01\-28
+**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
